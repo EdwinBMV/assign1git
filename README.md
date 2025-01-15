@@ -1,4 +1,4 @@
 # assign1git
 Edwin MartinezVelez
 1st change on GitHub
-adding another line in newbranch 
+Line added resolving conflict when mergin main into newbranch
